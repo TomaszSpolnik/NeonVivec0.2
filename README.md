@@ -5,6 +5,8 @@ It enables user to quickly do changes like server name, password, number of play
 
 Updated from previous amateurish approch, without .bat files for publication on [Nexus m](https://www.nexusmods.com). 
 
+https://www.nexusmods.com/morrowind/mods/52692
+
 Written in python with PyQt6. Tested on tes3mp.Win64.prerelease.0.7-alpha and tes3mp.Win64.prerelease.0.8-alpha.
 
 How to use:
